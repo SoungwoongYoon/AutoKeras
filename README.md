@@ -1,10 +1,10 @@
 # AutoKeras
 
-# https://github.com/yjucho1/articles/blob/master/auto-keras/readme.md
+### https://github.com/yjucho1/articles/blob/master/auto-keras/readme.md
 
-# install : git (git 버전이 keras 개체 변환 가능)
-# pip install git+https://github.com/jhfjhfj1/autokeras.git
-# 문제점 : torch 0.4.1 버전
+### install : git (git 버전이 keras 개체 변환 가능)
+### pip install git+https://github.com/jhfjhfj1/autokeras.git
+### 문제점 : torch 0.4.1 버전
 # https://github.com/jhfjhfj1/autokeras/issues/41
 # pip install http://download.pytorch.org/whl/cu90/torch-0.4.1-cp36-cp36m-win_amd64.whl
 # pip install torchvision
