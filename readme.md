@@ -8,7 +8,9 @@
 
 - 참조, 수정내용 공유는 언제나 환영합니다. 단, 출처는 반드시 표기해 주세요.
 
-메인 참조자료 : https://github.com/yjucho1/articles/blob/master/auto-keras/readme.md (감사합니다)
+AutoKeras 공식 sample : https://autokeras.com/start/
+
+메인 참조자료 : https://github.com/yjucho1/articles/blob/master/auto-keras/readme.md (대단히 감사합니다)
 
 ### 환경 : Windows10 64bit 영문버전, python 3.6, TensorFlow-gpu 세팅
 
