@@ -22,6 +22,8 @@ AutoKeras git 버전 0.2.15
 
 # 참조할 사항
 
+### 아직까지는 ImageClassifier만 제대로 작동하는 듯.
+
 ### Default setting의 특징
 
 pip 버전은 에러가 보이고 keras 개체로 변환이 안됩니다. 가급적 git 버전으로 설치하기를 권장합니다.
