@@ -22,7 +22,7 @@ AutoKeras git 버전 0.2.15
 
 # 참조할 사항
 
-### 아직까지는 ImageClassifier만 제대로 작동하는 듯.
+### 아직까지는 ImageClassifier만 제대로 작동하는 듯합니다. (2018-11-05)
 
 ### Default setting의 특징
 
